@@ -198,4 +198,4 @@ This project is licensed under the **MIT License**.
 
 For queries or suggestions, feel free to raise an issue on GitHub.
 
-⭐ If you found this project useful, don’t forget to star the repository!
+⭐ If you found this project useful, don’t forget to star the repository.
